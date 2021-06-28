@@ -1,0 +1,4 @@
+            yield direntry.path
+
+print_path(findfiles("D:\\Repositorios\\Python"))
+
